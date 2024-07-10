@@ -1,11 +1,11 @@
 {
-  "name": "@mycustomcomponent/button",
+  "name": "@mycustomcomponent/inputfield",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "hamail <mhamail1223@gmail.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/button.js",
+  "main": "lib/inputfield.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -17,6 +17,6 @@
     "access": "public"
   },
   "scripts": {
-    "test": "node ./__tests__/@mycustomcomponent/button.test.js"
+    "test": "node ./__tests__/@mycustomcomponent/inputfield.test.js"
   }
 }
