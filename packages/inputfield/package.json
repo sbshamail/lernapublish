@@ -1,6 +1,6 @@
 {
   "name": "@mycustomcomponent/inputfield",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "src/InputField.js",
   "dependencies": {
     "react": "^17.0.2"
