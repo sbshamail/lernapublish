@@ -1,5 +1,5 @@
 {
-  "name": "@mycustomcomponent/inputfield",
+  "name": "@tablets/inputfield",
   "version": "1.1.0",
   "main": "src/InputField.js",
   "dependencies": {

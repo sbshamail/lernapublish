@@ -1,5 +1,5 @@
 {
-  "name": "@mycustomcomponent/button",
+  "name": "@tablets/button",
   "version": "1.1.1",
   "description": "Button component for custom component library",
   "main": "dist/button.js",
@@ -15,5 +15,5 @@
   ],
   "author": "Your Name",
   "license": "MIT",
-  "gitHead": "c1abd06f5258d9a7b48ccae79032622c7c624be5"
+  "gitHead": "d6b6ced4bc69c36e787b73b08372fd1fdbcd1dbc"
 }
